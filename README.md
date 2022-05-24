@@ -3,7 +3,7 @@ Here you can install ActiveInspire with the license.
 
 # STEP 1
 
-Install the file "ActiveInspire.zip" on your computer
+Go to https://mega.nz/file/sC8kjKTY#olvt6_29DqQL2IzbGAycFZ5pPHle8onJMVtJFUoFTqc and install the file "ActiveInspire.zip" on your computer 
 
 # STEP 2
 
